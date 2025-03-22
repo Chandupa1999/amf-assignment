@@ -72,7 +72,7 @@ Ensure you have the following installed:
 
 
 ## 🖥 Screenshots
-🚀 ![Welcome Page](https://github.com/yourusername/your-repo/assets/Welcome page.png)
+🚀 ![Welcome Page](https://github.com/Chandupa1999/amf-assignment/Images/Welcome page.PNG)
 
 
 ## 🤝 Contributing
