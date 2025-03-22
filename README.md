@@ -72,7 +72,7 @@ Ensure you have the following installed:
 
 
 ## 🖥 Screenshots
-🚀 ![Welcome Page](https://github.com/Chandupa1999/amf assignment/blob/fb2cdb08bfd7a5c0a0face5509a938b065e69b24/Images/Welcome%20page.PNG)
+![Welcome Page](https://github.com/Chandupa1999/amf-assignment/blob/fb2cdb08bfd7a5c0a0face5509a938b065e69b24/Images/Welcome%20page.PNG)
 
 
 ## 🤝 Contributing
