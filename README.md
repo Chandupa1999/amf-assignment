@@ -86,7 +86,7 @@ Ensure you have the following installed:
 
 ![Edit Task](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Edit%20Task.PNG)
 
-![Edit Task Error](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Edit%20task%20with%20error.PNG)
+![Edit Task Error](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Edit%20task%20error.PNG)
 
 ![Delete Task](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Tasks%20deleted.PNG)
 
