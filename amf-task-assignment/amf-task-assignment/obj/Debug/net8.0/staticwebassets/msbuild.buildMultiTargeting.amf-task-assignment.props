@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\amf-task-assignment.props" />
+</Project>
