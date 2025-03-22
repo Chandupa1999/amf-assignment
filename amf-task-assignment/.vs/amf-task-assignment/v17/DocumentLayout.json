@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\pages\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\pages\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\pages\\tasks\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\pages\\tasks\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\pages\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\pages\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -23,16 +23,24 @@
       "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\pages\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\pages\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\pages\\tasks\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\pages\\tasks\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\pages\\tasks\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\pages\\tasks\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|solutionrelative:amf-task-assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9493F3DD-5558-4D69-87B8-4B6A39358218}|amf-task-assignment\\amf-task-assignment.csproj|c:\\users\\amf-assignment\\desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\pages\\tasks\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "amf-task-assignment\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:03:40.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Account\\Login.cshtml*",
+              "RelativeToolTip": "amf-task-assignment\\Pages\\Account\\Login.cshtml*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T07:02:38.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Program.cs",
               "RelativeDocumentMoniker": "amf-task-assignment\\Program.cs",
@@ -77,7 +111,7 @@
               "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "amf-task-assignment\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-20T16:38:43.055Z",
               "EditorCaption": ""
@@ -90,53 +124,53 @@
               "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Shared\\_Layout.cshtml.css",
               "ToolTip": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "amf-task-assignment\\Pages\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-03-21T15:36:44.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Tasks\\Index.cshtml",
               "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Tasks\\Index.cshtml",
               "ToolTip": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Tasks\\Index.cshtml",
               "RelativeToolTip": "amf-task-assignment\\Pages\\Tasks\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-20T14:40:35.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Tasks\\Edit.cshtml",
               "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Tasks\\Edit.cshtml",
               "ToolTip": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Tasks\\Edit.cshtml",
               "RelativeToolTip": "amf-task-assignment\\Pages\\Tasks\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-21T07:10:27.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Tasks\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Tasks\\Edit.cshtml.cs",
               "ToolTip": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Tasks\\Edit.cshtml.cs",
               "RelativeToolTip": "amf-task-assignment\\Pages\\Tasks\\Edit.cshtml.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAowFMAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T07:13:48.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\appsettings.json",
               "RelativeDocumentMoniker": "amf-task-assignment\\appsettings.json",
@@ -144,12 +178,11 @@
               "RelativeToolTip": "amf-task-assignment\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-21T16:03:01.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T16:03:01.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Tasks\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Tasks\\Index.cshtml.cs",
@@ -162,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Tasks\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Tasks\\Create.cshtml.cs",
@@ -170,12 +203,11 @@
               "RelativeToolTip": "amf-task-assignment\\Pages\\Tasks\\Create.cshtml.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T17:31:53.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T17:31:53.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Tasks\\Delete.cshtml",
               "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Tasks\\Delete.cshtml",
@@ -183,12 +215,11 @@
               "RelativeToolTip": "amf-task-assignment\\Pages\\Tasks\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T09:31:05.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T09:31:05.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\Pages\\Tasks\\Create.cshtml",
               "RelativeDocumentMoniker": "amf-task-assignment\\Pages\\Tasks\\Create.cshtml",
@@ -196,8 +227,7 @@
               "RelativeToolTip": "amf-task-assignment\\Pages\\Tasks\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T17:24:10.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T17:24:10.611Z"
             }
           ]
         }

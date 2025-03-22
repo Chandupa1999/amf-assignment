@@ -1,0 +1,39 @@
+﻿@page
+@model amf_task_assignment.Pages.Acccount.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="d-flex justify-content-center align-items-center vh-50">
+    <div class="card shadow p-4" style="width: 350px;">
+        <h3 class="text-center mb-3">Login</h3>
+
+        <!-- Error message with smaller font size -->
+        <div asp-validation-summary="ModelOnly" class="alert alert-danger alert-dismissible fade show small" role="alert">
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+
+        <form method="post">
+            <div class="mb-3">
+                <label asp-for="Credential.UserName" class="form-label"></label>
+                <input type="text" asp-for="Credential.UserName" class="form-control" placeholder="Enter username" />
+                <span class="text-danger small" asp-validation-for="Credential.UserName"></span>
+            </div>
+
+            <div class="mb-4">
+                <label asp-for="Credential.Password" class="form-label"></label>
+                <input type="password" asp-for="Credential.Password" class="form-control" placeholder="Enter password" />
+                <span class="text-danger small" asp-validation-for="Credential.Password"></span>
+            </div>
+            <div class="mb-2">
+            <button type="submit" class="btn btn-primary w-100" >Login</button>
+            </div>
+            <div class="mb-3">
+            <button type="button" class="btn btn-outline-dark w-100" value="Cancel">Cancel</button>
+            </div>
+        </form>
+       
+
+    </div>
+    
+</div>
