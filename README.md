@@ -74,6 +74,22 @@ Ensure you have the following installed:
 ## 🖥 Screenshots
 ![Welcome Page](https://github.com/Chandupa1999/amf-assignment/blob/fb2cdb08bfd7a5c0a0face5509a938b065e69b24/Images/Welcome%20page.PNG)
 
+![Login Page](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Login%20Page.PNG)
+
+![Login Page Error](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Login%20Page%20with%20error.PNG)
+
+![View Tasks](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/View%20Tasks.PNG)
+
+![Add Task](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Add%20tasks.PNG)
+
+![Add Task Error](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Add%20tasks%20error.PNG)
+
+![Edit Task](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Edit%20Tasks.PNG)
+
+![Edit Task Error](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Edit%20tasks%20with%20error.PNG)
+
+![Delete Task](https://github.com/Chandupa1999/amf-assignment/blob/b4b8ef2c804cd48b88007047f457576f51a2dad2/Images/Tasks%20deleted.PNG)
+
 
 ## 🤝 Contributing
 Feel free to submit a pull request if you find a bug or have a feature suggestion.
