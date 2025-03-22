@@ -3,51 +3,6 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "amf-task-assignment.3ernq1lfbt.styles.css",
-      "AssetFile": "amf-task-assignment.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 14:33:21 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3ernq1lfbt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE="
-        },
-        {
-          "Name": "label",
-          "Value": "amf-task-assignment.styles.css"
-        }
-      ]
-    },
-    {
       "Route": "amf-task-assignment.styles.css",
       "AssetFile": "amf-task-assignment.styles.css",
       "Selectors": [],
@@ -62,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "1204"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +25,62 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE=\""
+          "Value": "\"Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 14:33:21 GMT"
+          "Value": "Sat, 22 Mar 2025 10:43:54 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE="
+          "Value": "sha256-Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M="
+        }
+      ]
+    },
+    {
+      "Route": "amf-task-assignment.t4pa12vkj6.styles.css",
+      "AssetFile": "amf-task-assignment.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 10:43:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t4pa12vkj6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M="
+        },
+        {
+          "Name": "label",
+          "Value": "amf-task-assignment.styles.css"
         }
       ]
     },

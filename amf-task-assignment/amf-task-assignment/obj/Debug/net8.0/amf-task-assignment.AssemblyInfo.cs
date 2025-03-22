@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("amf-task-assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+731826a2cdeaf6529e3af62caa964cfa0c447d3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c491a782f82871f6231d068955bc7524d724e925")]
 [assembly: System.Reflection.AssemblyProductAttribute("amf-task-assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("amf-task-assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

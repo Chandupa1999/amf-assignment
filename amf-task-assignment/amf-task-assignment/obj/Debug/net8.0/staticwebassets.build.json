@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JyKel1g8lvrpnIH7gfTkobgy795yQZKLWBaFn3+YiY8=",
+  "Hash": "aS/7VgDN5PYcw88aoeTHI3uoxLpkpFsy0bfU08OLqSk=",
   "Source": "amf-task-assignment",
   "BasePath": "_content/amf-task-assignment",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "3ernq1lfbt",
-      "Integrity": "a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE=",
+      "Fingerprint": "t4pa12vkj6",
+      "Integrity": "Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\obj\\Debug\\net8.0\\scopedcss\\bundle\\amf-task-assignment.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "3ernq1lfbt",
-      "Integrity": "a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE=",
+      "Fingerprint": "t4pa12vkj6",
+      "Integrity": "Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\amf-task-assignment.bundle.scp.css"
@@ -1321,96 +1321,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "amf-task-assignment.3ernq1lfbt.bundle.scp.css",
-      "AssetFile": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\amf-task-assignment.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 14:33:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3ernq1lfbt"
-        },
-        {
-          "Name": "label",
-          "Value": "amf-task-assignment.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE="
-        }
-      ]
-    },
-    {
-      "Route": "amf-task-assignment.3ernq1lfbt.styles.css",
-      "AssetFile": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\obj\\Debug\\net8.0\\scopedcss\\bundle\\amf-task-assignment.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1137"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 14:33:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3ernq1lfbt"
-        },
-        {
-          "Name": "label",
-          "Value": "amf-task-assignment.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE="
-        }
-      ]
-    },
-    {
       "Route": "amf-task-assignment.bundle.scp.css",
       "AssetFile": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\amf-task-assignment.bundle.scp.css",
       "Selectors": [],
@@ -1421,7 +1331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "1204"
         },
         {
           "Name": "Content-Type",
@@ -1429,11 +1339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE=\""
+          "Value": "\"Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 14:33:21 GMT"
+          "Value": "Sat, 22 Mar 2025 10:43:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1443,7 +1353,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE="
+          "Value": "sha256-Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M="
         }
       ]
     },
@@ -1458,7 +1368,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1137"
+          "Value": "1204"
         },
         {
           "Name": "Content-Type",
@@ -1466,11 +1376,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE=\""
+          "Value": "\"Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 14:33:21 GMT"
+          "Value": "Sat, 22 Mar 2025 10:43:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1480,7 +1390,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-a/iWvD7r4KUoCMnesz4l3mnlKQPRnKghxrNK7qBqaYE="
+          "Value": "sha256-Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M="
+        }
+      ]
+    },
+    {
+      "Route": "amf-task-assignment.t4pa12vkj6.bundle.scp.css",
+      "AssetFile": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\amf-task-assignment.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 10:43:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t4pa12vkj6"
+        },
+        {
+          "Name": "label",
+          "Value": "amf-task-assignment.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M="
+        }
+      ]
+    },
+    {
+      "Route": "amf-task-assignment.t4pa12vkj6.styles.css",
+      "AssetFile": "C:\\Users\\amf-assignment\\Desktop\\project\\amf-assignment\\amf-task-assignment\\amf-task-assignment\\obj\\Debug\\net8.0\\scopedcss\\bundle\\amf-task-assignment.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1204"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Mar 2025 10:43:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t4pa12vkj6"
+        },
+        {
+          "Name": "label",
+          "Value": "amf-task-assignment.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q4nuFieKJXf/OcrEd/oh6lsSo1JVtZyf9qq1RNAR65M="
         }
       ]
     },
